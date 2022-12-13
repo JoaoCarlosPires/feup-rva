@@ -8,4 +8,4 @@ This project was created during the **1st semester** of the **2nd year** of the 
 
 ## How to execute
 
-Clone this repository, and access [Cooking Simulator/Build/Cooking Simulator.exe](Cooking%20Simultator/Build/Cooking%20Simulator.exe). By executing this file, the game will start.
+Clone this repository, and access [Cooking Simulator/Build/Cooking Simulator.exe](Cooking%20Simulator/Build/Cooking%20Simulator.exe). By executing this file, the game will start.
