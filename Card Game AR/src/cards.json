@@ -1,0 +1,368 @@
+{
+  "cards": [
+    {
+      "name": "Ace of Spades",
+      "rank": "Ace",
+      "suit": "Spades",
+      "value": 14,
+      "image": "1.png"
+    },
+    {
+      "name": "Ace of Hearts",
+      "rank": "Ace",
+      "suit": "Hearts",
+      "value": 14,
+      "image": "2.png"
+    },
+    {
+      "name": "Ace of Clubs",
+      "rank": "Ace",
+      "suit": "Clubs",
+      "value": 14,
+      "image": "3.png"
+    },
+    {
+      "name": "Ace of Diamonds",
+      "rank": "Ace",
+      "suit": "Diamonds",
+      "value": 14,
+      "image": "4.png"
+    },
+    {
+      "name": "Two of Spades",
+      "rank": "Two",
+      "suit": "Spades",
+      "value": 2,
+      "image": "5.png"
+    },
+    {
+      "name": "Two of Hearts",
+      "rank": "Two",
+      "suit": "Hearts",
+      "value": 2,
+      "image": "6.png"
+    },
+    {
+      "name": "Two of Clubs",
+      "rank": "Two",
+      "suit": "Clubs",
+      "value": 2,
+      "image": "7.png"
+    },
+    {
+      "name": "Two of Diamonds",
+      "rank": "Two",
+      "suit": "Diamonds",
+      "value": 2,
+      "image": "8.png"
+    },
+    {
+      "name": "Three of Spades",
+      "rank": "Three",
+      "suit": "Spades",
+      "value": 3,
+      "image": "9.png"
+    },
+    {
+      "name": "Three of Hearts",
+      "rank": "Three",
+      "suit": "Hearts",
+      "value": 3,
+      "image": "10.png"
+    },
+    {
+      "name": "Three of Clubs",
+      "rank": "Three",
+      "suit": "Clubs",
+      "value": 3,
+      "image": "11.png"
+    },
+    {
+      "name": "Three of Diamonds",
+      "rank": "Three",
+      "suit": "Diamonds",
+      "value": 3,
+      "image": "12.png"
+    },
+    {
+      "name": "Four of Spades",
+      "rank": "Four",
+      "suit": "Spades",
+      "value": 4,
+      "image": "13.png"
+    },
+    {
+      "name": "Four of Hearts",
+      "rank": "Four",
+      "suit": "Hearts",
+      "value": 4,
+      "image": "14.png"
+    },
+    {
+      "name": "Four of Clubs",
+      "rank": "Four",
+      "suit": "Clubs",
+      "value": 4,
+      "image": "15.png"
+    },
+    {
+      "name": "Four of Diamonds",
+      "rank": "Four",
+      "suit": "Diamonds",
+      "value": 4,
+      "image": "16.png"
+    },
+    {
+      "name": "Five of Spades",
+      "rank": "Five",
+      "suit": "Spades",
+      "value": 5,
+      "image": "17.png"
+    },
+    {
+      "name": "Five of Hearts",
+      "rank": "Five",
+      "suit": "Hearts",
+      "value": 5,
+      "image": "18.png"
+    },
+    {
+      "name": "Five of Clubs",
+      "rank": "Five",
+      "suit": "Clubs",
+      "value": 5,
+      "image": "19.png"
+    },
+    {
+      "name": "Five of Diamonds",
+      "rank": "Five",
+      "suit": "Diamonds",
+      "value": 5,
+      "image": "20.png"
+    },
+    {
+      "name": "Six of Spades",
+      "rank": "Six",
+      "suit": "Spades",
+      "value": 6,
+      "image": "21.png"
+    },
+    {
+      "name": "Six of Hearts",
+      "rank": "Six",
+      "suit": "Hearts",
+      "value": 6,
+      "image": "22.png"
+    },
+    {
+      "name": "Six of Clubs",
+      "rank": "Six",
+      "suit": "Clubs",
+      "value": 6,
+      "image": "23.png"
+    },
+    {
+      "name": "Six of Diamonds",
+      "rank": "Six",
+      "suit": "Diamonds",
+      "value": 6,
+      "image": "24.png"
+    },
+    {
+      "name": "Seven of Spades",
+      "rank": "Seven",
+      "suit": "Spades",
+      "value": 7,
+      "image": "25.png"
+    },
+    {
+      "name": "Seven of Hearts",
+      "rank": "Seven",
+      "suit": "Hearts",
+      "value": 7,
+      "image": "26.png"
+    },
+    {
+      "name": "Seven of Clubs",
+      "rank": "Seven",
+      "suit": "Clubs",
+      "value": 7,
+      "image": "27.png"
+    },
+    {
+      "name": "Seven of Diamonds",
+      "rank": "Seven",
+      "suit": "Diamonds",
+      "value": 7,
+      "image": "28.png"
+    },
+    {
+      "name": "Eight of Spades",
+      "rank": "Eight",
+      "suit": "Spades",
+      "value": 8,
+      "image": "29.png"
+    },
+    {
+      "name": "Eight of Hearts",
+      "rank": "Eight",
+      "suit": "Hearts",
+      "value": 8,
+      "image": "30.png"
+    },
+    {
+      "name": "Eight of Clubs",
+      "rank": "Eight",
+      "suit": "Clubs",
+      "value": 8,
+      "image": "31.png"
+    },
+    {
+      "name": "Eight of Diamonds",
+      "rank": "Eight",
+      "suit": "Diamonds",
+      "value": 8,
+      "image": "32.png"
+    },
+    {
+      "name": "Nine of Spades",
+      "rank": "Nine",
+      "suit": "Spades",
+      "value": 9,
+      "image": "33.png"
+    },
+    {
+      "name": "Nine of Hearts",
+      "rank": "Nine",
+      "suit": "Hearts",
+      "value": 9,
+      "image": "34.png"
+    },
+    {
+      "name": "Nine of Clubs",
+      "rank": "Nine",
+      "suit": "Clubs",
+      "value": 9,
+      "image": "35.png"
+    },
+    {
+      "name": "Nine of Diamonds",
+      "rank": "Nine",
+      "suit": "Diamonds",
+      "value": 9,
+      "image": "36.png"
+    },
+    {
+      "name": "Ten of Spades",
+      "rank": "Ten",
+      "suit": "Spades",
+      "value": 10,
+      "image": "37.png"
+    },
+    {
+      "name": "Ten of Hearts",
+      "rank": "Ten",
+      "suit": "Hearts",
+      "value": 10,
+      "image": "38.png"
+    },
+    {
+      "name": "Ten of Clubs",
+      "rank": "Ten",
+      "suit": "Clubs",
+      "value": 10,
+      "image": "39.png"
+    },
+    {
+      "name": "Ten of Diamonds",
+      "rank": "Ten",
+      "suit": "Diamonds",
+      "value": 10,
+      "image": "40.png"
+    },
+    {
+      "name": "Queen of Spades",
+      "rank": "Queen",
+      "suit": "Spades",
+      "value": 11,
+      "image": "41.png"
+    },
+    {
+      "name": "Queen of Hearts",
+      "rank": "Queen",
+      "suit": "Hearts",
+      "value": 11,
+      "image": "42.png"
+    },
+    {
+      "name": "Queen of Clubs",
+      "rank": "Queen",
+      "suit": "Clubs",
+      "value": 11,
+      "image": "43.png"
+    },
+    {
+      "name": "Queen of Diamonds",
+      "rank": "Queen",
+      "suit": "Diamonds",
+      "value": 11,
+      "image": "44.png"
+    },
+    {
+      "name": "Jack of Spades",
+      "rank": "Jack",
+      "suit": "Spades",
+      "value": 12,
+      "image": "45.png"
+    },
+    {
+      "name": "Jack of Hearts",
+      "rank": "Jack",
+      "suit": "Hearts",
+      "value": 12,
+      "image": "46.png"
+    },
+    {
+      "name": "Jack of Clubs",
+      "rank": "Jack",
+      "suit": "Clubs",
+      "value": 12,
+      "image": "47.png"
+    },
+    {
+      "name": "Jack of Diamonds",
+      "rank": "Jack",
+      "suit": "Diamonds",
+      "value": 12,
+      "image": "48.png"
+    },
+    {
+      "name": "King of Spades",
+      "rank": "King",
+      "suit": "Spades",
+      "value": 13,
+      "image": "49.png"
+    },
+    {
+      "name": "King of Hearts",
+      "rank": "King",
+      "suit": "Hearts",
+      "value": 13,
+      "image": "50.png"
+    },
+    {
+      "name": "King of Clubs",
+      "rank": "King",
+      "suit": "Clubs",
+      "value": 13,
+      "image": "51.png"
+    },
+    {
+      "name": "King of Diamonds",
+      "rank": "King",
+      "suit": "Diamonds",
+      "value": 13,
+      "image": "52.png"
+    }
+  ]
+}
